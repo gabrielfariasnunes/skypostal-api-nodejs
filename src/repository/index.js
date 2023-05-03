@@ -9,7 +9,7 @@ const language = {
 exports.trackPackage = async (track_code) => {
   return new Promise(async (resolve, reject) => {
     const data = {
-      lngCode: language.portugues,
+      lngCode: language.portuguese,
       trackingSearch: track_code,
       userInfo: { userCode: 1 },
     };
