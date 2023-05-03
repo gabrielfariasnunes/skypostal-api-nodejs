@@ -1,4 +1,4 @@
-const { toLocaleTime, toLocaleDate } = require("../helpers/date");
+const { toLocaleTime, toLocaleDate } = require("#helpers/date");
 
 const package = (event) => {
   const local = event.event_locality || event.iata_code;

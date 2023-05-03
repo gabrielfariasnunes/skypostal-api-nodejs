@@ -10,6 +10,7 @@
   "imports": {
     "#helpers/dom": "./src/helpers/dom.js",
     "#helpers/env": "./src/helpers/env.js",
+    "#helpers/date": "./src/helpers/date.js",
     "#http": "./src/http/index.js",
     "#model/package": "./src/model/package.js",
     "#repository": "./src/repository/index.js",
