@@ -2,7 +2,7 @@ const { request } = require("#http");
 const { package } = require("#model/package");
 
 const language = {
-  portugues: "POR",
+  portuguese: "POR",
   english: "ENG",
 };
 
